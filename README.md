@@ -97,3 +97,6 @@ Este proyecto está bajo la licencia MIT. Las contribuciones al repositorio se c
 ---
 
 ¿Tienes dudas? ¡Únete a la discusión en el canal de La Hora Maker!
+
+Nota: La versión 1 de este texto ha sido creada con ayuda de Claude. Mejoras, comentarios y sugerencias son bienvenidos!
+
