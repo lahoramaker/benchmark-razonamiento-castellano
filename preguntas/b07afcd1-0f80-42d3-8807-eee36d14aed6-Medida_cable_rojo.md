@@ -1,4 +1,4 @@
-# XXXX - Medida_cable_rojo.md
+# b07afcd1-0f80-42d3-8807-eee36d14aed6 - Medida_cable_rojo.md
 
 ## Metadata
 - Autor: Miguel de Dios Matías
